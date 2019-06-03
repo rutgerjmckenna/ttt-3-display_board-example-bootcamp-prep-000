@@ -4,3 +4,12 @@ end
 
 display_board
 
+def board_itself
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+end
+
+board_itself
